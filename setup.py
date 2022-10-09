@@ -1,5 +1,5 @@
 from setuptools import find_packages, setup
-
+#Tishchenko Alexey IS/b-21-1-O
 
 setup(
     name='textrank',
